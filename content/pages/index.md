@@ -29,6 +29,16 @@ sections:
           economical, seamless innovated system to satisfy all your needs in the
           hospitality industry.
 
+
+          With the evolution of cloud technology, hoteliers can embrace
+          technologies that can be programmed to streamlined practices making
+          operations more efficient, saving time for employees, and delivering
+          excellent guest experiences by scaling to new heights. Clovatel comes
+          with piping hot sale solution coupled and incorporated with tools such
+          as self-service kiosk, booking engine, room app, housekeeping appends
+          retail POS, spa and wellness app, revenue management, channel manager
+          and several more.
+
         actions:
           - label: Learn More
             url: /features
