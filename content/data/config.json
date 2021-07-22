@@ -29,7 +29,7 @@
                 "style": "link"
             },
             {
-                "label": "Sign Up",
+                "label": "Request for Demo",
                 "url": "/signup",
                 "style": "primary"
             }
