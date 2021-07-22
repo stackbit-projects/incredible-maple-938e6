@@ -15,17 +15,26 @@ sections:
         style: primary
   - section_id: lorem-ipsum
     title: HOSPITALITY MANAGEMENT SYSTEM
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      ### Self Service Kiosk offer modular integrated solutions for staff and
+      guest experience
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Looking for the best technology to reach the pinnacle of growth to
+      collaborate and streamlined daily operations, consider Clovatel, a
+      cloud-based software solution integrated with an efficient, economical,
+      seamless innovated system to satisfy all your needs in the hospitality
+      industry.
 
 
-      - Lorem ipsum
+      With the evolution of cloud technology, hoteliers can embrace technologies
+      that can be programmed to streamlined practices making operations more
+      efficient, saving time for employees, and delivering excellent guest
+      experiences by scaling to new heights. Clovatel comes with piping hot sale
+      solution coupled and incorporated with tools such as self-service kiosk,
+      booking engine, room app, housekeeping appends retail POS, spa and
+      wellness app, revenue management, channel manager and several more.
 
-      - dolor sit amet
     image_alt: lorem-ipsum
     background: gray
     actions: []
